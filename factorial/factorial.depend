@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519613825 source:c:\users\vicky\desktop\c++ programs\factorial\main.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
